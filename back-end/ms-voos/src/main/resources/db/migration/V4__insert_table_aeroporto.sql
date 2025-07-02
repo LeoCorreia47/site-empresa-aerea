@@ -1,0 +1,22 @@
+INSERT INTO aeroporto (codigo_aeroporto, nome, cidade, estado) 
+VALUES 
+('GRU', 'Aeroporto Internacional de São Paulo-Guarulhos', 'Guarulhos', 'São Paulo'),
+('GIG', 'Aeroporto Internacional do Rio de Janeiro-Galeão', 'Rio de Janeiro', 'Rio de Janeiro'),
+('BSB', 'Aeroporto Internacional de Brasília', 'Brasília', 'Distrito Federal'),
+('CNF', 'Aeroporto Internacional de Belo Horizonte-Confins', 'Confins', 'Minas Gerais'),
+('SSA', 'Aeroporto Internacional de Salvador', 'Salvador', 'Bahia'),
+('CWB', 'Aeroporto Internacional de Curitiba - Afonso Pena', 'Curitiba', 'Paraná'),
+('REC', 'Aeroporto Internacional do Recife', 'Recife', 'Pernambuco'),
+('POA', 'Aeroporto Internacional de Porto Alegre', 'Porto Alegre', 'Rio Grande do Sul'),
+('FOR', 'Aeroporto Internacional de Fortaleza', 'Fortaleza', 'Ceará'),
+('MAO', 'Aeroporto Internacional de Manaus', 'Manaus', 'Amazonas'),
+('VCP', 'Aeroporto Internacional de Viracopos', 'Campinas', 'São Paulo'),
+('SDU', 'Aeroporto Santos Dumont', 'Rio de Janeiro', 'Rio de Janeiro'),
+('CGH', 'Aeroporto de Congonhas', 'São Paulo', 'São Paulo'),
+('CGB', 'Aeroporto Marechal Rondon', 'Cuiabá', 'Mato Grosso'),
+('GYN', 'Aeroporto de Goiânia - Santa Genoveva', 'Goiânia', 'Goiás'),
+('BEL', 'Aeroporto Internacional de Belém - Val-de-Cans', 'Belém', 'Pará'),
+('MCZ', 'Aeroporto Internacional Zumbi dos Palmares', 'Maceió', 'Alagoas'),
+('NAT', 'Aeroporto Internacional de Natal', 'Natal', 'Rio Grande do Norte'),
+('SLZ', 'Aeroporto Marechal Cunha Machado', 'São Luís', 'Maranhão'),
+('JPA', 'Aeroporto Internacional Presidente Castro Pinto', 'João Pessoa', 'Paraíba');
